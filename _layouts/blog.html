@@ -8,8 +8,9 @@ layout: default
 </a>
 
 <header>
-  <h1>{{ site.title }} 666</h1>
   {% include horizontal_list.html collection=site.data.home.blog_navbar_entries %}
+  <div class="dashed"></div>
+  <h1>{{ site.title }}</h1>
 </header>
 
 {% include post_list.html %}
