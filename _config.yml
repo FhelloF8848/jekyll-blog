@@ -6,6 +6,9 @@ description: > # description of the site (multiple lines allowed)
     欢迎来到我的博客！博客使用jekyll-blog; Moonwalk主题;
 permalink: /:slug
 
+blog_description: >
+    所有文章
+
 twitter:
   username: fxup # update or delete this
   card: summary_large_image
