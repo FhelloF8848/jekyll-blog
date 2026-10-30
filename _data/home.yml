@@ -11,6 +11,13 @@ navbar_entries:
   - title: search
     url: search
 
+blog_navbar_entries:
+  - title: tags
+    url: tags
+
+  - title: search
+    url: search
+
 project_entries:
   - title: Project 1
     url: overview-post
