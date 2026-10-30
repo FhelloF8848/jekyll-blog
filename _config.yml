@@ -1,9 +1,9 @@
-title: Moonwalk - FxupBlog
+title: FxupBlog
 author: Fxup
 url: https://fxup.de # root address of the site
 baseurl: "/" # set to "/moonwalk" if hosting under a project subpath
 description: > # description of the site (multiple lines allowed)
-    欢迎来到我的博客！jekyll-blog; Moonwalk主题;
+    欢迎来到我的博客！博客使用jekyll-blog; Moonwalk主题;
 permalink: /:slug
 
 twitter:
