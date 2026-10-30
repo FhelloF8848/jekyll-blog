@@ -9,9 +9,7 @@ layout: default
 
 <header>
   <h1>{{ site.title }} 666</h1>
-{% include search.html %}
-
-    
+  {% include horizontal_list.html collection=site.data.home.blog_navbar_entries %}
 </header>
 
 {% include post_list.html %}
